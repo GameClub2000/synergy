@@ -28,6 +28,6 @@
   <?define var.OpensslPath="openssl-win32" ?>
   <?endif?>
   
-  <?define CRT="$(env.CommonProgramFiles)\Merge Modules\Microsoft_VC100_CRT_$(var.Platform).msm" ?>
+  <?define CRT="$(env.CommonProgramFiles)\Merge Modules\Microsoft_VC140_CRT_$(var.Platform).msm" ?>
   
 </Include>
